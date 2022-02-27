@@ -1,0 +1,24 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрос поиска
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:12] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрос поиска
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:17] "GET /search?s=Раньше HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:26] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:26] "GET /uploads/images/278428-frederika.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запрос поиска
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:31] "GET /search?s=ии HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2022 12:08:31] "[36mGET /uploads/images/278428-frederika.jpg HTTP/1.1[0m" 304 -
